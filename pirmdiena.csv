@@ -1,0 +1,15 @@
+weekday,lesson,name,room,room_id,class
+1,1,Bioloģija,110.0,37244.0,12sb
+1,1,Ķīmija,212.0,37254.0,12sb
+1,2,Bioloģija,110.0,37244.0,12sb
+1,2,Ķīmija,212.0,37254.0,12sb
+1,4,Matemātika,132.0,37259.0,12sb
+1,4,Latviešu val.,204.0,37226.0,12sb
+1,5,Matemātika,132.0,37259.0,12sb
+1,5,Latviešu val.,204.0,37226.0,12sb
+1,6,Matemātika,132.0,37259.0,12sb
+1,6,Zināšanas teorija,105.0,37241.0,12sb
+1,7,Zināšanas teorija,105.0,37241.0,12sb
+1,7,Matemātika,132.0,37259.0,12sb
+1,8,Zināšanas teorija,105.0,37241.0,12sb
+1,9,Zināšanas teorija,105.0,37241.0,12sb
